@@ -2,3 +2,5 @@ Welcome
 Rice
 cake
 fruits
+vegetables
+short eats
